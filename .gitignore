@@ -1,0 +1,5 @@
+.idea
+templates/themes/manager/header_global.tpl
+include/database_config.php
+include/config.php
+log
